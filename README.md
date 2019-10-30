@@ -2,9 +2,9 @@
 ## Info
 Progetto di Programmazione a Oggetti svolto a settembre 2018.  La descrizione dettagliata si trova nella [relazione](https://github.com/nevepura/drone-simulator/blob/master/relazione%20DroneSim.pdf).
 ## Tecnologie
-Linguaggi: C++, Java.
-Compilatore: gcc v 5.4.0.
-Framework: Qt v5.5.1.
+* Linguaggi: C++, Java.
+* Compilatore: gcc v 5.4.0.
+* Framework: Qt v5.5.1.
 ## Simulatore di drone
 Il progetto richiede la progettazione e codifica di una calcolatrice che utilizzi una gerarchia di tipi di dato a piacere. Il tipo di dato scelto è il drone: il progetto consiste quindi in un simulatore di guida di un drone.
 Il simulatore offre varie e semplici funzionalità: accensione, spegnimento, utilizzo della batteria, movimento in due dimensioni lungo gli assi x e y, e cambio della modalità di guida.
