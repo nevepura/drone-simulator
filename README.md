@@ -23,3 +23,8 @@ Il simulatore offre varie e semplici funzionalità: accensione, spegnimento, uti
 
 ## Modalità di guida
 La modalità Plus consente spostamenti verso i quattro punti cardinali (N,S,E,W), mentre la Ex consente di spostarsi di 45° rispetto a essi (NW, NE, SW, SE). Si può cambiare da una modalità all’altra e, a seconda della destinazione da raggiungere, una modalità può essere più vantaggiosa di un’altra. 
+
+## Utilizzo
+* importare DroneSim0.pro in QtCreator;
+* in QtCreator, lanciare il comando *build*;
+* lanciare *run*.
