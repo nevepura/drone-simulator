@@ -8,7 +8,7 @@ Progetto di Programmazione a Oggetti svolto a settembre 2018.  La descrizione de
 * Compilatore: gcc v. 5.4.0.
 * Framework: Qt v. 5.5.1.
 
-# Uso delle tecnologie
+## Uso delle tecnologie
 Il progetto segue il pattern model-view, semplificazione di MVC. Il modello è implementato sia in C++ che in Java. L'interfaccia per il modello C++ è scritta in Qt.
 
 ## Simulatore di drone
