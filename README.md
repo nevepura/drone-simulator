@@ -1,6 +1,6 @@
 # DroneSim
 ## Info
-Progetto di Programmazione a Oggetti svolto a settembre 2018.  La descrizione dettagliata si trova nella [relazione]([https://github.com/nevepura/drone-simulator/blob/master/relazione%20DroneSim.pdf](https://github.com/nevepura/drone-simulator/blob/master/relazione%20DroneSim.pdf)).
+Progetto di Programmazione a Oggetti svolto a settembre 2018.  La descrizione dettagliata si trova nella [relazione](https://github.com/nevepura/drone-simulator/blob/master/relazione%20DroneSim.pdf).
 ## Tecnologie
 Linguaggio: C++.
 Framework: Qt.
